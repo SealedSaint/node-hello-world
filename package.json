@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Just a test node project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SealedSaint/node-hello-world.git"
+  },
+  "author": "David Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SealedSaint/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/SealedSaint/node-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
